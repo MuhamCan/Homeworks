@@ -1,5 +1,4 @@
 
-	
 /* Addition program */
 #include <stdio.h>
 
@@ -22,4 +21,3 @@ int main( void )
    return 0; /* indicate that program ended successfully */
 
 } /* end function main */
-
